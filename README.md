@@ -1,3 +1,3 @@
-# ChoiaeKiugi Official Release
+# ChoiaeKiugi (Official Distribution)
 
-Please download the installer from the [Releases](https://github.com/Heukmongi/ChoiaeKiugi/releases) page.
+This repository is currently being prepared for the official v1.1.0 release. Stay tuned!
